@@ -1,0 +1,7 @@
+[submodule "services/monitor"]
+	path = services/monitor
+	url = https://github.com/neimee8/moodle-monitoring-monitor.git
+
+[submodule "services/settings"]
+	path = services/settings
+	url = https://github.com/neimee8/moodle-monitoring-settings.git
